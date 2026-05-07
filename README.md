@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the Blogpreview Challenge. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the Blog preview Challenge. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
